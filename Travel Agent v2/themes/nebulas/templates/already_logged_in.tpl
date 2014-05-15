@@ -1,0 +1,1 @@
+<h2>You already logged in.<a href="logout.php">logout ?</a><h2>

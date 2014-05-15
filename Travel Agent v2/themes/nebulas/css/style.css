@@ -1,0 +1,58 @@
+TEXTAREA,SELECT,INPUT	{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px}
+FORM 		{FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 10px}
+body,td,th {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: 362C1E;
+	line-height:12px;
+}
+img{border:0;}
+a {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: 362C1E;
+}
+a:visited {
+	color: 362C1E;
+}
+a:hover {
+	color: 362C1E;
+}
+a:active {
+	color: 362C1E;
+}
+
+.redprice {
+	background-color: transparent;
+	color: #ff0000;
+	font-family: 'Tahoma ';
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+}
+
+
+a:link, a:visited, a:active { text-decoration: underline; color: 362C1E}
+a:hover { color: #9d4033; text-decoration:underline }
+
+h1,h2,h3{color:#000000;font-family:Verdana,Helvetica;font-size:12px;font-weight:bold}
+
+.title{font-size: 11px; color:#9d4033;font-weight:bold;} 
+
+.yellowbg{background-color:#FFCC66;}
+.yellowbgbold{background-color:#FFCC66;font-weight:bold}
+.whitebg{background-color:#FFFFFF;}
+.adminbg{background-color:#FFFFFF;font-weight:bold}
+.redbg{background-color:#CC0000}
+.error{color:#CC0000}
+.lightyellow{background-color:#fffee8;font-weight:bold}
+.package{background-color:#FFCC00;font-weight:bold}
+.header{color:#000000;font-family:Verdana,Helvetica;font-size:10px;font-weight:bold}
+.content{color:#000000;font-family:Verdana,Helvetica;font-size:10px}
+.btitle{color:#000000;font-family:Verdana,Helvetica;font-size:12px;font-weight:bold}
+.bluetitle{color:#0000FF;font-family:Verdana,Helvetica;font-size:11px}
+.lightblack{ padding:6px 0px 6px 0px;line-height:140%;margin:2px 0px 2px 0px;border-top:1px solid #FFF;border-bottom:1px solid #FFF }
+.formtd{border-bottom:1px solid;FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 11px}
+.tdpadding{padding-left: 12px;padding-right:12px}
+
+.flighttd{color:#CC0000;background-color:#FFCC66;} 

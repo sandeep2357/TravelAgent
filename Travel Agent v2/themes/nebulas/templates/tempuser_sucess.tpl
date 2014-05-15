@@ -1,0 +1,2 @@
+<h1>Thank you </h1>
+An email has been dispatched. You will normally get a response back to your email within a few minutes. Please check your email within 24 hours. A link will be contained in the message which will allow you to confirm your membership.

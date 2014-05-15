@@ -1,0 +1,22 @@
+#Enable string below if you have troubles with some undefined variables
+#php_value error_reporting 7
+
+Options +FollowSymlinks
+
+RewriteEngine On
+
+#convert fare module long url to shorturl
+RewriteRule ^fare([1-9][0-9]*).html index.php?m=fare&id=$1
+
+#convert Package module long url to shorturl
+RewriteRule ^package([1-9][0-9]*).html index.php?m=package&file=packagedetails&id=$1
+
+
+# wml settings
+AddType application/x-httpd-wml .wml
+AddType application/x-httpd-php .wml
+AddType text/vnd.wap.wml .wml
+AddType image/vnd.wap.wbmp .wbmp
+AddType application/vnd.wap.wmlc wmlc
+AddType application/vnd.wap.wmlscriptc wmlsc
+AddType application/x-httpd-php .php .phtml .wml .xhtml
